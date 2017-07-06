@@ -32,5 +32,5 @@ cacheSolve <- function(x, ...) {
 
 # to make this function works we have to call the function makeCacheMatrix inside cachesolve
 
-# I.E: cacheSolve(makeCacheMatrix("Write here a Square function"))
+# I.E: cacheSolve(makeCacheMatrix("Write here a Square Matrix"))
 
